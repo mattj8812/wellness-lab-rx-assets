@@ -1,0 +1,34 @@
+# Homepage Public Performance Image Pack - 2026-06-27
+
+Status: Internal operations / public URL verification required after push.
+
+Replacement images: 23
+Original transfer represented: 34.49 MB
+Optimized transfer represented: 1.20 MB
+Estimated savings: 33.28 MB
+
+| Original URL | Public Replacement URL | Original | Optimized |
+| --- | --- | ---: | ---: |
+| https://vibe.filesafe.space/1775514835658403612/attachments/74b811b8-c0c1-4098-b667-878e67a5f162.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/02-74b811b8-c0c1-4098-b667-878e67a5f162.webp | 1644 KB | 63 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/7d69d38a-f62b-43e3-adf8-892d7d0b085d.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/03-7d69d38a-f62b-43e3-adf8-892d7d0b085d.webp | 1705 KB | 63 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/97ff7bac-270b-4f30-b8cd-4af6e8380653.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/04-97ff7bac-270b-4f30-b8cd-4af6e8380653.webp | 1554 KB | 54 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/9fb44a13-987f-4dea-a52f-fc9ec923e596.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/05-9fb44a13-987f-4dea-a52f-fc9ec923e596.webp | 1548 KB | 75 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/5016f1dc-86bd-4bbd-9e5b-9137108eacac.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/06-5016f1dc-86bd-4bbd-9e5b-9137108eacac.webp | 2163 KB | 34 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/435d19f1-0837-48e4-ba21-719521630ade.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/07-435d19f1-0837-48e4-ba21-719521630ade.webp | 1751 KB | 37 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/03dfc3b9-2370-404c-a25e-4e38dda08408.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/08-03dfc3b9-2370-404c-a25e-4e38dda08408.webp | 1701 KB | 39 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/92050966-1083-4bec-901e-ed6491121f6d.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/09-92050966-1083-4bec-901e-ed6491121f6d.webp | 1571 KB | 25 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/785d2bc3-edde-4013-9644-778aa11fc705.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/10-785d2bc3-edde-4013-9644-778aa11fc705.webp | 1467 KB | 25 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/44f67a3e-c703-4434-9cdc-111615c8e0ed.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/11-44f67a3e-c703-4434-9cdc-111615c8e0ed.webp | 1687 KB | 50 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/0a025961-3fe8-44e1-9cd0-053a3d35c7a1.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/12-0a025961-3fe8-44e1-9cd0-053a3d35c7a1.webp | 1654 KB | 47 KB |
+| https://vibe.filesafe.space/1775514835658403612/assets/d16e79e4-3470-45de-a119-a03a050cfcb8.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/13-d16e79e4-3470-45de-a119-a03a050cfcb8.webp | 948 KB | 31 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/c87b2e1c-e793-4238-ab6a-6279d5c44075.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/14-c87b2e1c-e793-4238-ab6a-6279d5c44075.webp | 1667 KB | 52 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/4d55d5ef-8064-4f23-8a4e-b3135ce3f814.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/15-4d55d5ef-8064-4f23-8a4e-b3135ce3f814.webp | 1569 KB | 56 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/5c336e91-1186-49a7-a2df-f63a397ffe69.jpg | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/16-5c336e91-1186-49a7-a2df-f63a397ffe69.webp | 1585 KB | 62 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/25ac56aa-0b5e-4340-904e-7edaa6b0c58e.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/17-25ac56aa-0b5e-4340-904e-7edaa6b0c58e.webp | 1553 KB | 43 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/e0659840-afa0-497b-b345-4cbfc48cf6bc.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/18-e0659840-afa0-497b-b345-4cbfc48cf6bc.webp | 998 KB | 32 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/58770054-b8e2-420b-b1f9-43349f13bc4d.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/19-58770054-b8e2-420b-b1f9-43349f13bc4d.webp | 1422 KB | 27 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/7531bff9-0fa5-4280-a415-9a706688ede5.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/20-7531bff9-0fa5-4280-a415-9a706688ede5.webp | 1521 KB | 66 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/9370644d-59ec-493f-9b52-beb277a4865c.png | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/22-9370644d-59ec-493f-9b52-beb277a4865c.webp | 724 KB | 204 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/667995f4-1586-4ed9-b0c4-01b80aaa6556.jpg | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/23-667995f4-1586-4ed9-b0c4-01b80aaa6556.webp | 1691 KB | 57 KB |
+| https://assets.cdn.filesafe.space/wupdTmKh8RKgW1xOrwRw/media/69365a51e0f09247b1415a38.jpeg | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/24-69365a51e0f09247b1415a38.webp | 1269 KB | 45 KB |
+| https://vibe.filesafe.space/1775514835658403612/attachments/96cd3738-e3d3-4825-ae6f-c42d5c741e20.jpg | https://raw.githubusercontent.com/mattj8812/wellness-lab-rx-assets/main/images/homepage-2026-06-27/performance/25-96cd3738-e3d3-4825-ae6f-c42d5c741e20-background.webp | 1922 KB | 45 KB |
