@@ -71,37 +71,9 @@
   <div class="panel" role="main">
     <div class="eyebrow">Wellness Lab</div>
     <h1>Request your RETA review.</h1>
-    <p>If Messages does not open automatically, tap the button below. RETA will be prepared for you to send to the Wellness Lab care line.</p>
-    <a id="sms-link" class="button" href="sms:+15128569612">Open Messages With RETA</a>
+    <p>Tap below to open Messages to the Wellness Lab care line, then enter <strong>RETA</strong> and send.</p>
+    <a class="button" href="sms:+15128569612">Open Messages</a>
     <div class="fallback">You can also text RETA to (512) 856-9612. Requests remain subject to clinical review and availability.</div>
   </div>
-  <script>
-    (function () {
-      var link = document.getElementById('sms-link');
-      var userAgent = navigator.userAgent || '';
-      var isIOS = /iPad|iPhone|iPod/.test(userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-      var isAndroid = /Android/i.test(userAgent);
-      var smsUrl = isIOS
-        ? 'sms:+15128569612&body=RETA'
-        : isAndroid
-          ? 'sms:+15128569612?body=RETA'
-          : 'sms:+15128569612';
-
-      link.href = smsUrl;
-
-      if (isIOS || isAndroid) {
-        try {
-          if (!sessionStorage.getItem('wellness-lab-reta-opened')) {
-            sessionStorage.setItem('wellness-lab-reta-opened', '1');
-            window.setTimeout(function () {
-              window.location.href = smsUrl;
-            }, 450);
-          }
-        } catch (error) {
-          // The visible button remains available when storage is restricted.
-        }
-      }
-    }());
-  </script>
 </body>
 </html>
